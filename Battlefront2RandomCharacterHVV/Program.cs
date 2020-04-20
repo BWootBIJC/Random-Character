@@ -8,12 +8,26 @@ namespace Battlefront2RandomCharacterHVV
 {
     class Program
     {
+        string[] lightSide = new string[]{"Luke Skywalker", "Han Solo", "Leia Organa", "Chewbacca", "Lando Calrissian", "Rey",
+"Yoda", "Finn", "Obi-Wan Kenobi", "Anakin Skywalker", "BB-8"};
+        string[] darkSide = new string[] {"Boba Fett", "Bossk", "Darth Vader", "Emperor Palpatine", "Kylo Ren", "Darth Maul", "Iden Versio",
+"Captain Phasma", "General Grievous", "Count Dooku", "BB-9E"};
+        public void displayHeroRoster()
+        {
+            Console.WriteLine("The hero roster is...");
+            foreach (var item in lightSide)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("The villain roster is...");
+            foreach (var item in darkSide)
+            {
+                Console.WriteLine(item);
+            }
+            
+        }
         public void ChooseRando()
         {
-            string[] lightSide = new string[]{"Luke Skywalker", "Han Solo", "Leia Organa", "Chewbacca", "Lando Calrissian", "Rey",
-"Yoda", "Finn", "Obi-Wan Kenobi", "Anakin Skywalker"};
-            string[] darkSide = new string[] {"Boba Fett", "Bossk", "Darth Vader", "Emperor Palpatine", "Kylo Ren", "Darth Maul", "Iden Versio",
-"Captain Phasma", "General Grievous", "Count Dooku" };
             Console.WriteLine("Are you playing on the light side or dark side?");
             string lightOrDark = Console.ReadLine().ToLower();
             if (lightOrDark.Contains("light"))
@@ -52,8 +66,8 @@ namespace Battlefront2RandomCharacterHVV
 
         static void Main(string[] args)
         {
-
             Program prog = new Program();
+            prog.displayHeroRoster();
             prog.ChooseRando();
             for(int i = 0; i < 1000; i++)
             {
