@@ -5,3 +5,9 @@ C:\Users\Jesus\OneDrive\Documents\Projects\C#Programming\Battlefront2RandomChara
 C:\Users\Jesus\OneDrive\Documents\Projects\C#Programming\Battlefront2RandomCharacterHVV\Battlefront2RandomCharacterHVV\obj\Debug\Battlefront2RandomCharacterHVV.csproj.CoreCompileInputs.cache
 C:\Users\Jesus\OneDrive\Documents\Projects\C#Programming\Battlefront2RandomCharacterHVV\Battlefront2RandomCharacterHVV\obj\Debug\Battlefront2RandomCharacterHVV.exe
 C:\Users\Jesus\OneDrive\Documents\Projects\C#Programming\Battlefront2RandomCharacterHVV\Battlefront2RandomCharacterHVV\obj\Debug\Battlefront2RandomCharacterHVV.pdb
+C:\Users\Jesus\Downloads\Random-Character-master\Random-Character-master\Battlefront2RandomCharacterHVV\bin\Debug\Battlefront2RandomCharacterHVV.exe.config
+C:\Users\Jesus\Downloads\Random-Character-master\Random-Character-master\Battlefront2RandomCharacterHVV\bin\Debug\Battlefront2RandomCharacterHVV.exe
+C:\Users\Jesus\Downloads\Random-Character-master\Random-Character-master\Battlefront2RandomCharacterHVV\bin\Debug\Battlefront2RandomCharacterHVV.pdb
+C:\Users\Jesus\Downloads\Random-Character-master\Random-Character-master\Battlefront2RandomCharacterHVV\obj\Debug\Battlefront2RandomCharacterHVV.csprojAssemblyReference.cache
+C:\Users\Jesus\Downloads\Random-Character-master\Random-Character-master\Battlefront2RandomCharacterHVV\obj\Debug\Battlefront2RandomCharacterHVV.exe
+C:\Users\Jesus\Downloads\Random-Character-master\Random-Character-master\Battlefront2RandomCharacterHVV\obj\Debug\Battlefront2RandomCharacterHVV.pdb
